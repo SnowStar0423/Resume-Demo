@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=SnowStar0423&theme=highcontrast&show_icons=true&count_private=true&hide=contribs,prs,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=SnowStar0423&theme=highcontrast&show_icons=true&count_private=true&hide=contribs,issues)
 
 # Resume Demo
 This template is made by HTML, Javascript, Bootstrap.
